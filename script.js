@@ -16,12 +16,12 @@ var realI2=5; //Y1 as an initial curve is shown, then 5,6,7,8,... will be its ot
 
 function preload(){
   //functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y1.png?v=1703365390043"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/altY1.png?v=1730130438430"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y2.png?v=1703361842863"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y3.png?v=1703361847650"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y4.png?v=1703361852516"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y5.png?v=1729720809901"));
-  functions.push(loadImage("https://cdn.glitch.global/0cab0543-69b3-4e66-9748-d142ed7de12b/y6.png?v=1729720951313"));
+  functions.push(loadImage("y1.png"));
+  functions.push(loadImage("y2.png"));
+  functions.push(loadImage("y3.png"));
+  functions.push(loadImage("y4.png"));
+  functions.push(loadImage("y5.png"));
+  functions.push(loadImage("y6.png"));
 
 }
 

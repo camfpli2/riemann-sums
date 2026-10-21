@@ -301,6 +301,7 @@ function touchStarted() {
   for (var g = 0; g < changers.length; g++) {
     changers[g].tapit();
   }
+  return false;
 }
 
 function touchEnded() {
